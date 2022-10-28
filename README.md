@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KebouKMari
-- 👀 I’m interested in ... Data Science, Data Analysis, Programming Python , C 
-- 🌱 I’m currently learning ... Machine learning, Web dev
+- 👀 I’m interested in ... Machine learning, Data Analysis,Python Programming , C Programming
+- 🌱 I’m currently learning ... Bioinformatics, Web development
 - 💞️ I’m looking to collaborate on ... Intelligence Artificial projects
 - 📫 How to reach me ... marivone.kebou@facsciences-uy1.cm
 
