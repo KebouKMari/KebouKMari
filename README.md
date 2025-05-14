@@ -5,17 +5,19 @@
 🔬 Currently working on predictive modeling of thermodynamic fluids using machine learning  
 
 ## 🧰 Fields I work in:
-- Deep Learning & Clustering  
-- Natural Language Processing (NLP)  
-- Computer Vision & Image Processing  
+- Deep Learning & Clustering
 - Bioinformatics & Drug Interaction Prediction  
+- Computer Vision & Image Processing  
 - Anomaly Detection & Data Mining
+- Natural Language Processing (NLP)  
 
 ## 🛠 Languages & Tools:
 `Python` | `Java` | `C` | `Scikit-learn` | `TensorFlow` | `Keras` | `Pandas` | `Matplotlib`| `Numpy` | `R`
 
 ## 👥 Community:
 Former Machine Learning Lead @ Google Developer Student Club  
+Like to discover new things
+Like Anime & kdrama, Youtube, Food, Travel
 Always happy to collaborate, learn, and contribute to open-source projects
 
 ---
